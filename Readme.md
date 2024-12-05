@@ -6,3 +6,4 @@ conda install gxx_linux-64 gcc_linux-64
 
 pip install deepspeed transformers datasets tokenizers sentencepiece accelerate
 ```
+The author has a job from 10 AM to 10 PM and can only update on weekends. Thank you for your understanding.
